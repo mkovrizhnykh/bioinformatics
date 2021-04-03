@@ -8,7 +8,7 @@
 using namespace std;
 
 int main() {
-	std::ifstream in("C:/Users/lumpofsugar/Downloads/input.txt");
+	std::ifstream in("C:/Users/Пользователь/Desktop/masstable.txt");
 	vector <char> let,inp;
 	vector<int> num,sum,final;
 	string line;
